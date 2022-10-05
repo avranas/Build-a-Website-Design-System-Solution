@@ -1,0 +1,55 @@
+
+.color{
+   padding: 20px;
+   text-align: center;
+   margin: 6px;
+   display: inline-block;
+}
+
+h1 {
+   font-weight: 700;
+   font-size: 26px;
+   font-family: 'Inter';
+}
+
+h2 {
+   font-weight: 500;
+   font-size: 18px;
+   font-family: 'Inter';
+}
+
+td{
+   border: 1px solid;
+   padding: 10px;
+}
+
+.inter{
+   font-family: 'Inter', sans-serif;
+}
+
+.edu{
+   font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+.blue {
+   background-color: #2553c0;
+}
+
+.pink {
+   background-color: #d13ad1;
+}
+
+.green {
+   background-color: #36d6a1;
+}
+
+.beige {
+   background-color: #bb8a6a;
+}
+
+/*Dark mode ftw*/
+body {
+   background-color: rgb(24, 24, 44);
+   color: rgb(244, 239, 255);
+   font-family: 'Roboto', sans-serif;
+}
